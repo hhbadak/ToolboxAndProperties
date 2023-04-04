@@ -465,6 +465,15 @@
     <EmbeddedResource Include="ToolBox.resx">
       <DependentUpon>ToolBox.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ToolBox\BackgroundWorker.resx">
+      <DependentUpon>BackgroundWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolBox\BindingNavigator.resx">
+      <DependentUpon>BindingNavigator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolBox\BindingSource.resx">
+      <DependentUpon>BindingSource.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

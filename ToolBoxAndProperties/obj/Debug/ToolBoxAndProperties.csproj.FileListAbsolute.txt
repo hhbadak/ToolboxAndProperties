@@ -10,3 +10,15 @@ C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\
 C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.exe
 C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.pdb
 C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.ToolBox.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.csproj.AssemblyReference.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.MainRegion.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.Properties.Resources.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.ToolBox.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.ToolBox.BackgroundWorker.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.ToolBox.BindingNavigator.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.ToolBox.BindingSource.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.csproj.GenerateResource.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.exe
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\ToolboxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.pdb
