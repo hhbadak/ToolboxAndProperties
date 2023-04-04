@@ -1,0 +1,12 @@
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\bin\Debug\ToolBoxAndProperties.exe.config
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\bin\Debug\ToolBoxAndProperties.exe
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\bin\Debug\ToolBoxAndProperties.pdb
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.csproj.AssemblyReference.cache
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.MainRegion.resources
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.Properties.Resources.resources
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.csproj.GenerateResource.cache
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.exe
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.pdb
+C:\Users\HsnHs\source\repos\ToolBoxAndProperties\ToolBoxAndProperties\obj\Debug\ToolBoxAndProperties.ToolBox.resources
